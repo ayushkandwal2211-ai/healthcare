@@ -1,0 +1,11 @@
+Patient_ID,Name,Age,Height,Weight,Diagnosis,Sugar_Level
+201,Raj,34,172,70,BP,108
+202,Neha,45,160,62,Diabetes,185
+203,Amit,NaN,175,78,Diabetes,NaN
+204,Priti,50,NaN,68,Heart,150
+205,Kunal,29,168,NaN,BP,98
+206,Riya,41,162,65,BP,115
+207,Arjun,55,170,75,Heart,160
+208,Meena,37,158,59,BP,105
+209,Suresh,48,174,82,Diabetes,170
+210,Kavya,NaN,165,63,BP,NaN
